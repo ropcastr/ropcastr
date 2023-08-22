@@ -3,6 +3,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
+
 <h3>Sobre mim</h3>
 
 - 🚀 Explorando novas tecnologias e desenvolvendo soluções de software.
@@ -10,6 +11,7 @@
 - 💼 Trabalhando como **Analista NOC** na <a href="https://www.farmaconde.com.br">Farma Conde</a>
 - 🌐 &nbsp; Aprendendo mais sobre **TECNOLOGIAS DE REDES**.
 
+<br><br>
 ## Minhas Skills
 
 **Linguagens e Ferramentas**
@@ -23,11 +25,12 @@
 <code><img height="30" src="https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/-Trello-0079BF?style=flat&logo=trello&logoColor=white"></code>
 
+<br><br>
 ## Projetos
 
+📚 FATEC 1º Semestre - [Avaliação 360](https://github.com/DevTudoFatec/Avaliacao360/blob/main/README.md)
 
-[Avaliação 360](https://github.com/DevTudoFatec/Avaliacao360/blob/main/README.md)
-
+<br><br>
 ## Status
 
 <a href="https://github.com/ropcastr">
@@ -44,8 +47,7 @@
 [instagram]: https://www.instagram.com/SEUINSTAGRAM/
 [linkedin]: https://www.linkedin.com/in/SEULINKEDIN/
 
-<br>
-
+<br><br>
 ## Redes sociais
 
 <p align="left">
