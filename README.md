@@ -26,7 +26,7 @@
 ## Projetos
 
 
-[Avaliação 360](https://github.com/user/repo/blob/branch/README.md) 
+[Avaliação 360](https://github.com/DevTudoFatec/Avaliacao360/blob/main/README.md)
 
 ## Status
 
