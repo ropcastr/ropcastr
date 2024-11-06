@@ -11,10 +11,11 @@
 - 💼 Trabalhando como **Analista NOC** na <a href="https://www.farmaconde.com.br">Farma Conde</a>
 - 🌐 &nbsp; Aprendendo mais sobre **TECNOLOGIAS DE REDES**.
 
-<br><br>
+<br><br><br><br><br>
+
 ## Minhas Skills
 
-**Linguagens e Ferramentas**
+**🤖 Linguagens e Ferramentas**
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -26,27 +27,40 @@
 <code><img height="30" src="https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/-Trello-0079BF?style=flat&logo=trello&logoColor=white"></code>
 
-<br><br>
+<br><br><br>
 ## Projetos
 
 📚 FATEC 1º Semestre - [Avaliação 360](https://github.com/DevTudoFatec/Avaliacao360/blob/main/README.md)
 
 <br><br>
-## Status
+## Github
+📊 Estatísticas
 
-<a href="https://github.com/ropcastr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ropcastr&theme=dracula&hide_langs_below=1" />
-</a>
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=ropcastr&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
-<a href="https://github.com/ropcastr">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ropcastr&show_icons=true&theme=dracula&line_height=27" alt="**Rodrigo** github stats"/>
-</a>
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ropcastr&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
 
 [website]: https://codedev.ga/
 [twitter]: https://twitter.com/SEUTWITTER
 [youtube]: https://www.youtube.com/user/SEUYOUTUBE/
 [instagram]: https://www.instagram.com/SEUINSTAGRAM/
 [linkedin]: https://www.linkedin.com/in/SEULINKEDIN/
+
+<br><br><br><br><br><br>
 
 <br><br>
 ## Redes sociais
