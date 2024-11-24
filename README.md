@@ -11,7 +11,7 @@
 - 💼 Trabalhando como **Analista NOC** na <a href="https://www.farmaconde.com.br">Farma Conde</a>
 - 🌐 &nbsp; Aprendendo mais sobre **TECNOLOGIAS DE REDES**.
 
-<br><br><br><br><br>
+<br><br><br><br>
 
 ## Minhas Skills
 
