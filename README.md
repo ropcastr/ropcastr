@@ -133,7 +133,8 @@
 
 <br><br><br><br><br><br>
 
-<br><br><br><br>
+<br><br><br>
+</br>
 ## Redes sociais
 
 <p align="left">
