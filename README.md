@@ -1,7 +1,7 @@
 <!-- Início do README -->
 # Olá, sou o <span style="color:red">Rodrigo</span>! 👋
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="380px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="380px" width="380px" align="right">
 
 
 <h3>Sobre mim</h3>
