@@ -97,6 +97,22 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Grafana" 
+    title="Grafana"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Zabbix" 
+    title="Zabbix"
+    width="120px" 
+    style="padding-right: 10px;" 
+    src="https://assets.zabbix.com/img/logo/zabbix_cloud.svg" 
+/>
 
 <br><br><br>
 ## Projetos
