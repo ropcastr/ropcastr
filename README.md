@@ -1,5 +1,5 @@
 <!-- Início do README -->
-# Olá, sou o <span style="color:red">Rodrigo</span>! 👋
+# **Olá, sou o _Rodrigo_! 👋**
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="340px" max-width="340px" width="340px" align="right">
 
@@ -102,8 +102,10 @@
 ## Projetos
 
 📚 FATEC 1º Semestre - [Avaliação 360](https://github.com/DevTudoFatec/Avaliacao360/blob/main/README.md)
+- Projeto focado em avaliação de equipes.
 
-<br><br>
+<br>
+
 ## Github
 📊 Estatísticas
 
