@@ -120,6 +120,8 @@
 📚 FATEC 1º Semestre - [Avaliação 360](https://github.com/DevTudoFatec/Avaliacao360/blob/main/README.md)
 - Projeto focado em avaliação de equipes.
 
+📚 FATEC 2º Semestre - [Gerenciador de TG's](https://github.com/SquadTech-API/API-2/blob/main/README.md)
+- Projeto focado em um sistema para gerenciar Teses de Graduação.
 <br>
 
 ## Github
