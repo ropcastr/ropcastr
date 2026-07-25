@@ -17,19 +17,18 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           
-          # Configurações de arquivo e salvamento na branch "output"
+          # Configurações de arquivo e salvamento
           filename: github-metrics.svg
           output_action: commit
           committer_branch: output
           
-          # Estética e fuso horário
+          # Fuso horário
           config_timezone: America/Sao_Paulo
-          config_theme: dark
-                   
-          # Restaura TODOS os dados numéricos (Atividades, Contribuições, etc.)
+          
+          # Mantém APENAS o cabeçalho limpo (foto, seguidores e repositórios)
           base: header
-                 
-          # Autoriza a busca de dados em repositórios de organizações e colaborações
+          
+          # Autoriza a busca de dados em organizações e colaborações (como a Fatec)
           repositories_affiliations: owner, collaborator, organization_member
           
           # Gráfico de Linguagens Usadas
@@ -37,8 +36,8 @@ jobs:
           plugin_languages_details: percentage, lines
           plugin_languages_limit: 8
           
-          # Força a exibição de todas as linguagens, mesmo as que têm menos de 1% (como o Python)
+          # Força a exibição de todas as linguagens, mesmo as menores que 1%
           plugin_languages_threshold: 0%
           
-          # O modo "indepth" força a ferramenta a contar seus commits em repositórios de terceiros
+          # Escaneamento profundo para achar seus commits em outros repositórios
           plugin_languages_indepth: yes
