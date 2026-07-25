@@ -125,6 +125,9 @@
 
 📚 Aprendizado LLM - [Tenebra DB](https://github.com/ropcastr/tenebra-db)
 - Projeto focado em LLM (Ollama) de uma assistente de banco de dados que entende linguagem natural para criar, gerenciar e até aprender sobre DB's.
+
+📚 Script Bash - [Script NOC](https://github.com/ropcastr/zabbix-grafana-installer)
+-  Projeto focado em automatizar e gerenciar a configuração de um ambiente de monitoramento usando Zabbix e Grafana.
 <br>
 
 ## Github
