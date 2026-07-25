@@ -76,6 +76,22 @@
 />
 <img 
     align="left" 
+    alt="IntelliJ" 
+    title="IntelliJ"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="database" 
+    title="database"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Linux" 
     title="Linux"
     width="30px" 
