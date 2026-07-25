@@ -54,27 +54,19 @@
 ## Github
 📊 Estatísticas
 
-## Github
-📊 Estatísticas
+<p align="center">
+  <img alt="GitHub Metrics" src="https://raw.githubusercontent.com/ropcastr/ropcastr/output/github-metrics.svg" />
+</p>
 
-<table border="0" align="center">
-  <tr>
-    <!-- Coluna 1: Suas Estatísticas -->
-    <td width="50%" align="center">
-      <img alt="GitHub Metrics" src="https://raw.githubusercontent.com/ropcastr/ropcastr/output/github-metrics.svg" />
-    </td>
-    <!-- Coluna 2: O Snake -->
-    <td width="50%" align="center">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-        <img alt="github-snake" src="https://raw.githubusercontent.com/ropcastr/ropcastr/output/github-snake.svg" />
-      </picture>
-    </td>
-  </tr>
-</table>
+<br>
 
-<br><br>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/ropcastr/ropcastr/output/github-snake.svg" />
+  </picture>
+</p>
 
 <br><br>
 
