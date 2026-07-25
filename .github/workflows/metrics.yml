@@ -29,12 +29,7 @@ jobs:
           
           # Restaura TODOS os dados numéricos (Atividades, Contribuições, etc.)
           base: header, activity, community, repositories, metadata
-          
-          # Estética e largura (esticado para ocupar o mesmo espaço da cobrinha)
-          config_timezone: America/Sao_Paulo
-          config_theme: dark
-          config_width: 800
-          
+                 
           # Autoriza a busca de dados em repositórios de organizações e colaborações
           repositories_affiliations: owner, collaborator, organization_member
           
