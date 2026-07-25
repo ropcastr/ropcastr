@@ -172,7 +172,7 @@
 [twitter]: https://twitter.com/SEUTWITTER
 [youtube]: https://www.youtube.com/user/SEUYOUTUBE/
 [instagram]: https://www.instagram.com/SEUINSTAGRAM/
-[linkedin]: https://www.linkedin.com/in/SEULINKEDIN/
+[linkedin]: https://www.linkedin.com/in/rpcastro/
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
