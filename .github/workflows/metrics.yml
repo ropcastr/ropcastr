@@ -26,10 +26,21 @@ jobs:
           config_timezone: America/Sao_Paulo
           config_theme: dark
           
-          # Mantém apenas o cabeçalho limpo com seus dados principais
-          base: header
+          # Restaura TODOS os dados numéricos (Atividades, Contribuições, etc.)
+          base: header, activity, community, repositories, metadata
           
-          # 1. Gráfico de Linguagens Usadas (Mostrando todas e suas porcentagens reais)
+          # Estética e largura (esticado para ocupar o mesmo espaço da cobrinha)
+          config_timezone: America/Sao_Paulo
+          config_theme: dark
+          config_width: 800
+          
+          # Autoriza a busca de dados em repositórios de organizações e colaborações
+          repositories_affiliations: owner, collaborator, organization_member
+          
+          # Gráfico de Linguagens Usadas
           plugin_languages: yes
           plugin_languages_details: percentage, lines
           plugin_languages_limit: 8
+          
+          # O modo "indepth" força a ferramenta a contar seus commits em repositórios de terceiros
+          plugin_languages_indepth: yes
