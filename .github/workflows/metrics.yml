@@ -27,7 +27,7 @@ jobs:
           config_theme: dark
                    
           # Restaura TODOS os dados numéricos (Atividades, Contribuições, etc.)
-          base: header, activity, community, repositories, metadata
+          base: header
                  
           # Autoriza a busca de dados em repositórios de organizações e colaborações
           repositories_affiliations: owner, collaborator, organization_member
@@ -36,6 +36,9 @@ jobs:
           plugin_languages: yes
           plugin_languages_details: percentage, lines
           plugin_languages_limit: 8
+          
+          # Força a exibição de todas as linguagens, mesmo as que têm menos de 1% (como o Python)
+          plugin_languages_threshold: 0%
           
           # O modo "indepth" força a ferramenta a contar seus commits em repositórios de terceiros
           plugin_languages_indepth: yes
