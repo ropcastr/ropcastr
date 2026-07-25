@@ -8,8 +8,9 @@
 
 - 🚀 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando **Tecnologia em Banco de Dados** na <a href="https://fatecsjc-prd.azurewebsites.net">FATEC SJC</a>.
-- 💼 Trabalhando como **Analista NOC** na <a href="https://www.farmaconde.com.br">Farma Conde</a>
-- 🌐 &nbsp; Aprendendo mais sobre **TECNOLOGIAS DE REDES**.
+- 💼 **Analista de TI** com experiência em _Infraestrutura de Redes, NOC e Suporte_</a>
+- 💻 Aprendendo mais sobre **desenvolvimento**.
+- 📔 Apaixonado por tenologia!
 
 <br><br><br><br>
 
