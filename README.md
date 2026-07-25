@@ -1,9 +1,11 @@
 <!-- Início do README -->
 # **Olá, sou o _Rodrigo_! 👋**
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="340px" max-width="340px" width="340px" align="right">
+<br>
 
-<h3>Sobre mim</h3>
+## Sobre mim
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="340px" max-width="280px" width="280px" align="right">
 
 - 🚀 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando **Tecnologia em Banco de Dados** na <a href="https://fatecsjc-prd.azurewebsites.net" target="_blank">FATEC SJC</a>.
@@ -11,7 +13,7 @@
 - 💻 Aprendendo mais sobre **desenvolvimento**.
 - 📔 Apaixonado por tecnologia!
 
-<br><br><br><br>
+<br><br>
 
 ## Minhas Skills
 
