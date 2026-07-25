@@ -25,6 +25,7 @@ jobs:
           # Estética e fuso horário
           config_timezone: America/Sao_Paulo
           config_theme: dark
+          config_width: 800
           
           # Restaura TODOS os dados numéricos (Atividades, Contribuições, etc.)
           base: header, activity, community, repositories, metadata
