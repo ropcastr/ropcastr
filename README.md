@@ -49,7 +49,6 @@
 
 📚 Script Bash - [NOC ZG Toolkit](https://github.com/ropcastr/NOC-ZG-Toolkit)
 - Projeto focado em automatizar e gerenciar a configuração de um ambiente de monitoramento usando Zabbix e Grafana.
-<br>
 
 📚 Unattend Studio - [Unattend Studio](https://github.com/ropcastr/unattend-studio)
 - Projeto focado em automatizar e personalizar a instalação do windows de forma fácil e prática.
