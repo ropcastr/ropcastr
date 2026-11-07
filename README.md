@@ -52,6 +52,11 @@
 
 📚 Unattend Studio - [Unattend Studio](https://github.com/ropcastr/unattend-studio)
 - Projeto focado em automatizar e personalizar a instalação do windows de forma fácil e prática.
+
+📚 Guia de Redes - [Guia Visual de Redes](https://github.com/ropcastr/guia-visual-redes)
+- Projeto focado em auxiliar no aprendizado de redes e consulda de fundamentos e calculadoras de rede / sub-redes.
+  **[🔗 Acessar a aplicação ao vivo](https://ropcastr.github.io/guia-visual-redes/)**
+
 <br>
 
 ## Github
